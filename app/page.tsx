@@ -1,11 +1,8 @@
-import { Button } from "@/components/ui/button";
-import React from "react";
-
 const Page = () => {
   return (
     <div>
-      <h1 className="text-2xl underline">Welcome bro</h1>
-      <Button>Lets go</Button>
+      <h1 className="text-2xl underline">Popular Companions</h1>
+      ra
     </div>
   );
 };
