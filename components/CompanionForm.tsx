@@ -59,10 +59,6 @@ const CompanionForm = () => {
       console.log("Failed to create a companion");
       redirect("/");
     }
-
-    // Do something with the form values.
-    // ✅ This will be type-safe and validated.
-    console.log(values);
   };
 
   return (
